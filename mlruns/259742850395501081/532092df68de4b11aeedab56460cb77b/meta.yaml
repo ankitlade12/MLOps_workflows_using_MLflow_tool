@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Ankit%20Hemant%20Lade/Desktop/MLOps/mlruns/259742850395501081/532092df68de4b11aeedab56460cb77b/artifacts
+end_time: 1709166146262
+entry_point_name: ''
+experiment_id: '259742850395501081'
+lifecycle_stage: active
+run_id: 532092df68de4b11aeedab56460cb77b
+run_name: colorful-ant-146
+run_uuid: 532092df68de4b11aeedab56460cb77b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709166141881
+status: 3
+tags: []
+user_id: Ankit Hemant Lade
